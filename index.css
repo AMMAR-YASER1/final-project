@@ -1,0 +1,38 @@
+.contain1{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;}
+img{
+width: 200px;
+height: 200px;
+border-radius: 30px;
+}
+.contain2{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.contain3{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.icon
+{
+    display: flex;
+    border: solid;
+    border-radius: 30px;
+    gap: 10px;
+
+}
+i{
+    margin-left: 10px;
+    margin-top: 10px;
+    color: burlywood;
+}
+.pr{
+    color: gray;
+}
+.price{
+    color: rgb(243, 182, 70);
+}
